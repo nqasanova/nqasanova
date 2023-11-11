@@ -13,7 +13,6 @@ I am a third-year Computer Science student at ADA University 🇦🇿.
 
 **Frameworks:**  
 ![](https://img.shields.io/badge/-Bootstrap-007BFF?style=flat-square&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-006400?style=flat-square&logo=node.js&logoColor=white)
 
 **Tools:**  
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
