@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, I'm Natavan Hasanova 👋
 
-<!--
-**nqasanova/nqasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+Welcome to my GitHub profile! I'm Natavan, a junior Computer Science student at ADA University. Thrilled to explore the realms of software development, advanced algorithms, and AI/ML models, my enthusiasm for technology drives me to continually enhance my skills. With a future-oriented mindset, I aim to seize new prospects within the realms of Computer Science and Information Technology.
 
-Here are some ideas to get you started:
+## ✨ Currently Learning
+- Software Engineering & Development
+- Data Structures & Advanced Algorithms 
+- Artificial Intelligence & Machine Learning Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Skills
+- **Programming Languages:** `C/C#`, `Java`, `Python`, `JavaScript/React`, `HTML/CSS`
+- **Databases:** MS SQL, PostgreSQL
+- **Tools & Technologies:** Git, GitHub, Docker, Microsoft Azure
+- **Frameworks:** Entity Framework, .Net Core, ASP.NET MVC, ASP.NET API, Spring Boot
+- **Soft Skills:** Problem Solving, Teamwork, Adaptability, Time Management
+
+## 🗣️ Languages
+🇦🇿 Azerbaijani (native), 🇺🇸 English (advanced), 🇷🇺 Russian (upper intermediate), 🇩🇪 German (intermediate)
+
+## 📫 How to Reach Me
+Feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/hasanovanatavan/) or send me an email at `nhasanova15562@ada.edu.az`.
