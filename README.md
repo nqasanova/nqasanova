@@ -1,22 +1,25 @@
-### Hello, I'm Natavan Hasanova 👋
+# Hello, I'm Natavan Hasanova 👋  
 
-## 🎓 About Me
-Welcome to my GitHub profile! I'm Natavan, a junior Computer Science student at ADA University. Thrilled to explore the realms of software development, advanced algorithms, and AI/ML models, my enthusiasm for technology drives me to continually enhance my skills. With a future-oriented mindset, I aim to seize new prospects within the realms of Computer Science and Information Technology.
+## 🎓 About Me  
+I’m an **MSc Data Science student at Eötvös Loránd University (ELTE)** with a background in software engineering, machine learning, and cyber/data governance.  
+Passionate about transforming data into intelligent and secure systems, I thrive where research meets real-world impact.  
 
-## ✨ Currently Learning
-- Software Engineering & Development
-- Data Structures & Advanced Algorithms 
-- Artificial Intelligence & Machine Learning Models
+## ✨ Interests  
+- Data Science & Machine Learning  
+- Artificial Intelligence & Applied Research  
+- Software Engineering & Scalable Systems  
 
-## ⚒️ Skills
-- **Programming Languages:** `C/C#`, `Java`, `Python`, `JavaScript/React`, `HTML/CSS`
-- **Databases:** MS SQL, PostgreSQL
-- **Tools & Technologies:** Git, GitHub, Docker, Microsoft Azure
-- **Frameworks:** Entity Framework, .Net Core, ASP.NET MVC, ASP.NET API, Spring Boot
-- **Soft Skills:** Problem Solving, Teamwork, Adaptability, Time Management
+## ⚒️ Skills  
+- **Languages:** Python, Java, C/C#, JavaScript/React, HTML/CSS  
+- **Databases:** PostgreSQL, MS SQL  
+- **Frameworks & Tools:** .NET Core, ASP.NET, Spring Boot, Docker, Azure, Git/GitHub  
 
-## 🗣️ Languages
-🇦🇿 Azerbaijani (native), 🇺🇸 English (advanced), 🇷🇺 Russian (upper intermediate), 🇩🇪 German (intermediate)
+## 🗣️ Languages  
+- 🇦🇿 Azerbaijani (native)  
+- 🇺🇸 English (advanced)  
+- 🇷🇺 Russian (upper intermediate)  
+- 🇩🇪 German (intermediate)  
 
-## 📫 How to Reach Me
-Feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/hasanovanatavan/) or send me an email at `nhasanova15562@ada.edu.az`.
+## 📫 Get in Touch  
+- [LinkedIn](https://www.linkedin.com/in/hasanovanatavan/)  
+- 📧 `nhasanova.cs@gmail.com`  
