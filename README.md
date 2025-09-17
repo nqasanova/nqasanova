@@ -1,8 +1,7 @@
 # Hello, I'm Natavan Hasanova 👋  
 
 ### 🎓 About Me  
-I’m an **MSc Data Science student at Eötvös Loránd University (ELTE)** with a background in software engineering, machine learning, and cyber/data governance.  
-Passionate about transforming data into intelligent and secure systems, I thrive where research meets real-world impact.  
+I’m an **MSc Data Science student at Eötvös Loránd University (ELTE)** with a background in software engineering, machine learning, and cyber/data governance. I am passionate about transforming data into intelligent and secure systems, I thrive where research meets real-world impact.  
 
 <hr>
 
