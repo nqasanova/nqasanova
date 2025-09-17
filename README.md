@@ -14,12 +14,5 @@ Passionate about transforming data into intelligent and secure systems, I thrive
 - **Databases:** PostgreSQL, MS SQL  
 - **Frameworks & Tools:** .NET Core, ASP.NET, Spring Boot, Docker, Azure, Git/GitHub  
 
-## 🗣️ Languages  
-- 🇦🇿 Azerbaijani (native)  
-- 🇺🇸 English (advanced)  
-- 🇷🇺 Russian (upper intermediate)  
-- 🇩🇪 German (intermediate)  
-
 ## 📫 Get in Touch  
-- [LinkedIn](https://www.linkedin.com/in/hasanovanatavan/)  
-- 📧 `nhasanova.cs@gmail.com`  
+Feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/hasanovanatavan/) or send me an email at nhasanova15562@ada.edu.az.
